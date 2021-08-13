@@ -18,4 +18,4 @@ terraform {
    name     = "myTFResourceGroup"
    location = "westeurope"
  }
-}
+
